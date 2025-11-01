@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+transformers
+torch
+numpy
+pandas
+shap
+lime
+captum
+anyio
+tiktoken
+protobuf
+sentencepiece
