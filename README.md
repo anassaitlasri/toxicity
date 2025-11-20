@@ -18,30 +18,6 @@ Asynchronous API for French toxicity detection (CamemBERT & GPT‑2) with LIME/S
 
 ---
 
-## Repository layout
-
-```
-backend/
-  app/
-    api.py
-    config.py
-    model_registry.py
-    schemas.py
-    routers/
-      predict.py
-    services/
-      inference.py
-      explanations.py
-  pyproject.toml
-  Dockerfile
-  uvicorn_app.py
-models/
-  camembert-toxicity/
-  gpt2-toxicity/
-```
-
----
-
 ## Requirements
 
 - Python 3.10+
