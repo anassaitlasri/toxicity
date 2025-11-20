@@ -75,7 +75,7 @@ CORS_ORIGINS=http://localhost:3000
 
 ## Run locally
 
-### Option A — recommended (starts inside Python, Windows‑friendly)
+### Option A
 
 ```bash
 cd backend
@@ -84,7 +84,7 @@ python uvicorn_app.py
 # -> http://127.0.0.1:8000
 ```
 
-### Option B — classic CLI
+### Option B
 
 ```bash
 cd backend
